@@ -36,12 +36,18 @@
       </p>
       <div class="grid-container">
         <div class="grid-item">
-          <img src="@/assets/sinais1.jpg" alt="Imagem Sinais 1" />
+          <img src="@/assets/sinais1b.jpg" alt="Imagem Sinais 1b" />
           <p>
             Algumas crianças autistas podem ter dificuldade para falar ou entender o que
-            os outros dizem. Também podem não olhar nos olhos de outras pessoas ou podem
-            não conseguir fazer amigos e brincar com outras crianças ficando mais
-            excluídas em certos momentos.
+            os outros dizem.
+          </p>
+        </div>
+        <div class="grid-item">
+          <img src="@/assets/sinais1.jpg" alt="Imagem Sinais 1" />
+          <p>
+            Também podem não olhar nos olhos de outras pessoas ou podem não conseguir
+            fazer amigos e brincar com outras crianças ficando mais excluídas em certos
+            momentos.
           </p>
         </div>
         <div class="grid-item">
@@ -61,16 +67,16 @@
         <div class="grid-item">
           <img src="@/assets/sinais4.jpg" alt="Imagem Sinais 4" />
           <p>
-            Crianças autistas podem ficar muito incomodadas com
-            barulhos altos ou luzes muito fortes e brilhantes.
+            Crianças autistas podem ficar muito incomodadas com barulhos altos ou luzes
+            muito fortes e brilhantes.
           </p>
         </div>
         <div class="grid-item">
           <img src="@/assets/sinais5.jpg" alt="Imagem Sinais 5" />
           <p>
-            Também algumas crianças, ficam incomodadas com mudanças, como
-            mudar um brinquedo ou algo que é tirado fora do lugar ou mudanças maiores
-            como mudar de escola, mudar de casa e outras.
+            Também algumas crianças, ficam incomodadas com mudanças, como mudar um
+            brinquedo ou algo que é tirado fora do lugar ou mudanças maiores como mudar de
+            escola, mudar de casa e outras.
           </p>
         </div>
       </div>
