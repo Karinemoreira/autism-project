@@ -24,6 +24,7 @@ a,
 @media (min-width: 1024px) {
   body {
     display: flex;
+    padding: 2rem;
     
   }
 
@@ -32,4 +33,36 @@ a,
     flex-direction: column;
     padding: 0 2rem;
   }
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.img-regular {
+  border-radius: 8px;
+}
+
+b {
+  font-weight: bold;
+}
+
+.button {
+  background-color: #4CAF50; /* Cor verde discreta */
+  color: white; /* Cor do texto */
+  padding: 10px 20px; /* Espaçamento interno */
+  border: none; /* Remove a borda padrão */
+  border-radius: 8px; /* Cantos arredondados */
+  cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+  font-size: 16px; /* Tamanho da fonte */
+  transition: background-color 0.3s; /* Transição suave para o hover */
+  margin:8px;
+}
+
+.button:hover {
+  background-color: #45a049; /* Cor mais escura ao passar o mouse */
 }
