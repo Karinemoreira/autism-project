@@ -245,12 +245,12 @@
     ajuda, dividir brinquedos ou fazer amigos. <br />
     <b>Círculo de Amigos:</b> Incentive os colegas a se reunirem para compartilhar
     experiências, com atividades simples como passar um objeto e dizer algo sobre si
-    mesmos. <b>Jogos Cooperativos:</b> Brincadeiras como montar quebra-cabeças em equipe
+    mesmos.<br /> <b>Jogos Cooperativos:</b> Brincadeiras como montar quebra-cabeças em equipe
     ou criar uma colagem coletiva promovem colaboração sem competição direta.<br /><br />
     <i>2. Adaptações Sensoriais</i><br />
     <b>Cantinho Calmante:</b> Inclua na sala um espaço com almofadas, fones de ouvido para
     abafar ruídos, brinquedos sensoriais e luz suave, onde a criança possa se regular se
-    sentir sobrecarregada. <b>Atividades Sensorialmente Ricas:</b> Use materiais como
+    sentir sobrecarregada.<br /> <b>Atividades Sensorialmente Ricas:</b> Use materiais como
     areia, massinha de modelar ou água em atividades de arte ou ciência. Permita que a
     criança explore no próprio ritmo.<br /><br />
     <i>3. Ferramentas Visuais e Organização<br /></i> <b>Rotinas Visuais: </b>Crie um
